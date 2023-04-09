@@ -12,7 +12,7 @@ Whether we are aware of it or not, a variety of recommendation systems have beco
 
 **In turn, a collaborative system is built on the basis of users’ overlapping preferences and ratings of songs. It assumes that if user A and user B express similar preferences, similar songs can be recommended to them, meaning that if user A likes a particular song, it is likely that this song will also appeal to user B and vice versa. Collaborative recommendation systems are generally considered more accurate, as they rely on direct user interactions with the system versus content similarity.**
 
-![img]("https://www.eliftech.com/insights/content/images/size/w1000/2023/02/Infographics-MRS--1-.jpg")
+![img](https://www.eliftech.com/insights/content/images/size/w1000/2023/02/Infographics-MRS--1-.jpg)
 
 **You might wonder, how does this process look from the user’s point of view?**
 
